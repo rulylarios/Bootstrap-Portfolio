@@ -1,0 +1,35 @@
+.navbar-brand{
+    position:relative;
+    left:100px;
+    background-color:#4aaaa5
+}
+.navbar-collapse{
+    position: relative;
+    left:-270px;
+}
+
+.navbar-default .navbar-brand {
+    color:white;
+}
+
+..navbar-default{
+    background-color:white;
+}
+
+.col-md-1.position{
+    position: relative;
+    left: -28px;
+    width:175px;
+
+}
+
+.col-md-8.about{
+    position: relative;
+    left: -28px;
+}
+
+.navbar-text{
+  position: relative;
+  left:35%;
+  width:100%;
+}
